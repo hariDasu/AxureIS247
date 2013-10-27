@@ -3,3 +3,23 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/Placeholder_for_App_Content_u0_normal.png");
 }
 
+* html .u5_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u5_normal.png");
+}
+
+* html .u7_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u5_normal.png");
+}
+
+* html .u9_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u5_normal.png");
+}
+
+* html .u16_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u16_normal.png");
+}
+

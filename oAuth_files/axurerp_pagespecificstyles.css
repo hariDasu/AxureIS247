@@ -58,8 +58,8 @@ div {
 
 .u2_container {
     position:absolute;
-    left:81px;
-    top:25px;
+    left:80px;
+    top:3px;
     width:150px;
     height:106px;
 }
@@ -92,8 +92,8 @@ div {
 
 .u4_container {
     position:absolute;
-    left:70px;
-    top:119px;
+    left:65px;
+    top:90px;
     width:180px;
     height:80px;
 }
@@ -123,7 +123,7 @@ div {
 .u6_container {
     position:absolute;
     left:24px;
-    top:215px;
+    top:160px;
     width:62px;
     height:60px;
 }
@@ -153,7 +153,7 @@ div {
 .u8_container {
     position:absolute;
     left:24px;
-    top:298px;
+    top:240px;
     width:62px;
     height:67px;
 }
@@ -183,7 +183,7 @@ div {
 .u10 {
     position:absolute;
     left:96px;
-    top:215px;
+    top:160px;
     width:193px;
     height:70px;
     ;
@@ -197,7 +197,7 @@ div {
 .u11 {
     position:absolute;
     left:96px;
-    top:295px;
+    top:240px;
     width:193px;
     height:56px;
     ;
@@ -211,7 +211,7 @@ div {
 .u12 {
     position:absolute;
     left:40px;
-    top:385px;
+    top:415px;
     width:100px;
     height:25px;
     ;
@@ -229,7 +229,7 @@ div {
 .u13 {
     position:absolute;
     left:170px;
-    top:385px;
+    top:415px;
     width:100px;
     height:25px;
     ;
@@ -242,5 +242,49 @@ div {
     font-weight:normal;
     text-decoration:none;
     
+}
+
+.u14 {
+    position:absolute;
+    left:96px;
+    top:306px;
+    width:193px;
+    height:56px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_container {
+    position:absolute;
+    left:24px;
+    top:307px;
+    width:56px;
+    height:63px;
+}
+
+#u15_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:56px;
+    height:63px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:52px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 

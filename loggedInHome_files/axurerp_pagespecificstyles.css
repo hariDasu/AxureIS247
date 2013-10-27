@@ -56,3 +56,279 @@ div {
     word-wrap:break-word;
 }
 
+.u2_container {
+    position:absolute;
+    left:85px;
+    top:10px;
+    width:150px;
+    height:106px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:106px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:45px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:85px;
+    top:116px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../loggedInHome_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:52px;
+    top:155px;
+    width:68px;
+    height:75px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:68px;
+    height:75px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:64px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../loggedInHome_files/u5_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:210px;
+    top:280px;
+    width:68px;
+    height:75px;
+}
+
+#u7_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:68px;
+    height:75px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:64px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../loggedInHome_files/u5_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:52px;
+    top:280px;
+    width:68px;
+    height:75px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:68px;
+    height:75px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:64px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:36px;
+    top:230px;
+    width:100px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:20px;
+    top:385px;
+    width:227px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u13 {
+    position:absolute;
+    left:257px;
+    top:385px;
+    width:43px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u14 {
+    position:absolute;
+    left:101px;
+    top:450px;
+    width:108px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:60px;
+    top:495px;
+    width:190px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u16_normal {
+    background-image: url('../loggedInHome_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:180px;
+    top:155px;
+    width:98px;
+    height:80px;
+}
+
+#u16_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:98px;
+    height:80px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:180px;
+    top:240px;
+    width:100px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
