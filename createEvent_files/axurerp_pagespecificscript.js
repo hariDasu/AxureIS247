@@ -5,3 +5,12 @@ function (e) {
 
 });
 gv_vAlignTable['u11'] = 'top';gv_vAlignTable['u13'] = 'top';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u3'] = 'center';gv_vAlignTable['u4'] = 'top';
+u9.style.cursor = 'pointer';
+$axure.eventManager.click('u9', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('eventConfirmation.html');
+
+}
+});
