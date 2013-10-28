@@ -360,3 +360,55 @@ div {
     word-wrap:break-word;
 }
 
+#u21 {
+    position:absolute;
+    left:70px;
+    top:240px;
+    width:201px;
+    height:83px;
+    overflow:hidden;
+}
+
+#pd0u21 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:201px;
+    height:83px;
+    
+}
+
+.u22_normal {
+    background-image: url('../loggedInHome_files/u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:200px;
+    height:80px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:86px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:196px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

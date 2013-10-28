@@ -23,3 +23,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u18_normal.png");
 }
 
+* html .u22_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u22_normal.png");
+}
+
