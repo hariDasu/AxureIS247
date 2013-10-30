@@ -4,18 +4,20 @@ $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u50'] = 'center';gv_vAlignTable['u52'] = 'center';gv_vAlignTable['u54'] = 'center';gv_vAlignTable['u56'] = 'center';gv_vAlignTable['u58'] = 'center';gv_vAlignTable['u20'] = 'top';gv_vAlignTable['u22'] = 'top';gv_vAlignTable['u24'] = 'top';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u28'] = 'center';gv_vAlignTable['u61'] = 'center';gv_vAlignTable['u63'] = 'center';gv_vAlignTable['u64'] = 'top';gv_vAlignTable['u65'] = 'top';document.getElementById('u66_img').tabIndex = 0;
+gv_vAlignTable['u50'] = 'center';gv_vAlignTable['u52'] = 'center';gv_vAlignTable['u54'] = 'center';gv_vAlignTable['u56'] = 'center';gv_vAlignTable['u58'] = 'center';gv_vAlignTable['u20'] = 'top';gv_vAlignTable['u22'] = 'top';gv_vAlignTable['u24'] = 'top';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u28'] = 'center';gv_vAlignTable['u61'] = 'center';gv_vAlignTable['u63'] = 'center';gv_vAlignTable['u64'] = 'top';gv_vAlignTable['u65'] = 'top';gv_vAlignTable['u67'] = 'center';gv_vAlignTable['u69'] = 'center';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u36'] = 'center';gv_vAlignTable['u38'] = 'center';u70.tabIndex = 0;
 
-u66.style.cursor = 'pointer';
-$axure.eventManager.click('u66', function(e) {
+u70.style.cursor = 'pointer';
+$axure.eventManager.click('u70', function(e) {
 
 if (true) {
 
 	SetPanelVisibility('u59','hidden','none',500);
 
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('loggedInHome.html');
+
 }
 });
-gv_vAlignTable['u67'] = 'center';gv_vAlignTable['u69'] = 'center';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u36'] = 'center';gv_vAlignTable['u38'] = 'center';gv_vAlignTable['u70'] = 'top';gv_vAlignTable['u71'] = 'top';document.getElementById('u72_img').tabIndex = 0;
+gv_vAlignTable['u70'] = 'top';gv_vAlignTable['u71'] = 'top';document.getElementById('u72_img').tabIndex = 0;
 
 u72.style.cursor = 'pointer';
 $axure.eventManager.click('u72', function(e) {
