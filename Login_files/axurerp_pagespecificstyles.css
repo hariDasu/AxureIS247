@@ -23,7 +23,7 @@ div {
 }
 
 .u0_normal {
-    background-image: url('../Login_files/Placeholder_for_App_Content_u0_normal.png');
+    background-image: url('../Login_files/u0_normal.png');
 }
 
 .u0_container {
@@ -97,25 +97,25 @@ div {
 
 .u5_container {
     position:absolute;
-    left:56px;
-    top:102px;
-    width:38px;
-    height:37px;
+    left:50px;
+    top:108px;
+    width:34px;
+    height:26px;
 }
 
 #u5_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:38px;
-    height:37px;
+    width:34px;
+    height:26px;
 }
 
 .u6 {
     position:absolute;
     left:2px;
-    top:10px;
-    width:34px;
+    top:5px;
+    width:30px;
     height:16px;
     ;
     ;
@@ -127,9 +127,9 @@ div {
 
 .u7 {
     position:absolute;
-    left:104px;
+    left:94px;
     top:113px;
-    width:150px;
+    width:183px;
     height:15px;
     ;
     ;
@@ -146,24 +146,24 @@ div {
 .u8_container {
     position:absolute;
     left:56px;
-    top:168px;
-    width:38px;
-    height:36px;
+    top:172px;
+    width:24px;
+    height:26px;
 }
 
 #u8_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:38px;
-    height:36px;
+    width:24px;
+    height:26px;
 }
 
 .u9 {
     position:absolute;
     left:2px;
-    top:10px;
-    width:34px;
+    top:5px;
+    width:20px;
     height:16px;
     ;
     ;
@@ -175,9 +175,9 @@ div {
 
 .u10 {
     position:absolute;
-    left:104px;
+    left:80px;
     top:178px;
-    width:150px;
+    width:190px;
     height:15px;
     ;
     ;
@@ -189,10 +189,10 @@ div {
 
 .u11_container {
     position:absolute;
-    left:56px;
-    top:236px;
+    left:51px;
+    top:241px;
     width:33px;
-    height:36px;
+    height:25px;
 }
 
 #u11_img {
@@ -200,13 +200,13 @@ div {
     left:0px;
     top:0px;
     width:33px;
-    height:36px;
+    height:25px;
 }
 
 .u12 {
     position:absolute;
     left:2px;
-    top:10px;
+    top:4px;
     width:29px;
     height:16px;
     ;
@@ -219,9 +219,9 @@ div {
 
 .u13 {
     position:absolute;
-    left:104px;
+    left:84px;
     top:246px;
-    width:150px;
+    width:186px;
     height:15px;
     ;
     ;
@@ -246,25 +246,25 @@ div {
 
 .u15_container {
     position:absolute;
-    left:56px;
-    top:301px;
-    width:33px;
-    height:32px;
+    left:51px;
+    top:306px;
+    width:26px;
+    height:24px;
 }
 
 #u15_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:33px;
-    height:32px;
+    width:26px;
+    height:24px;
 }
 
 .u16 {
     position:absolute;
     left:2px;
-    top:8px;
-    width:29px;
+    top:4px;
+    width:22px;
     height:16px;
     ;
     ;
@@ -276,9 +276,9 @@ div {
 
 .u17 {
     position:absolute;
-    left:104px;
+    left:77px;
     top:311px;
-    width:150px;
+    width:193px;
     height:15px;
     ;
     ;
@@ -290,9 +290,9 @@ div {
 
 .u18 {
     position:absolute;
-    left:96px;
-    top:360px;
-    width:128px;
+    left:26px;
+    top:355px;
+    width:268px;
     height:15px;
     ;
     ;
@@ -338,25 +338,7 @@ div {
     
 }
 
-.u21 {
-    position:absolute;
-    left:110px;
-    top:480px;
-    width:100px;
-    height:25px;
-    ;
-    ;
-    text-align: center;;
-    font-family:'Arial';
-    font-size: 13px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
-}
-
-.u22_container {
+.u21_container {
     position:absolute;
     left:80px;
     top:10px;
@@ -364,7 +346,7 @@ div {
     height:89px;
 }
 
-#u22_img {
+#u21_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -372,11 +354,45 @@ div {
     height:89px;
 }
 
-.u23 {
+.u22 {
     position:absolute;
     left:2px;
     top:36px;
     width:156px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../Login_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:100px;
+    top:473px;
+    width:120px;
+    height:37px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:43px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:116px;
     height:16px;
     ;
     ;

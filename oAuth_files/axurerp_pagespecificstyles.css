@@ -23,7 +23,7 @@ div {
 }
 
 .u0_normal {
-    background-image: url('../oAuth_files/Placeholder_for_App_Content_u0_normal.png');
+    background-image: url('../oAuth_files/u0_normal.png');
 }
 
 .u0_container {
@@ -210,42 +210,6 @@ div {
 
 .u12 {
     position:absolute;
-    left:40px;
-    top:415px;
-    width:100px;
-    height:25px;
-    ;
-    ;
-    text-align: center;;
-    font-family:'Arial';
-    font-size: 13px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
-}
-
-.u13 {
-    position:absolute;
-    left:170px;
-    top:415px;
-    width:100px;
-    height:25px;
-    ;
-    ;
-    text-align: center;;
-    font-family:'Arial';
-    font-size: 13px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
-}
-
-.u14 {
-    position:absolute;
     left:96px;
     top:306px;
     width:193px;
@@ -258,7 +222,7 @@ div {
     word-wrap:break-word;
 }
 
-.u15_container {
+.u13_container {
     position:absolute;
     left:24px;
     top:307px;
@@ -266,7 +230,7 @@ div {
     height:63px;
 }
 
-#u15_img {
+#u13_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -274,11 +238,79 @@ div {
     height:63px;
 }
 
-.u16 {
+.u14 {
     position:absolute;
     left:2px;
     top:24px;
     width:52px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../oAuth_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:40px;
+    top:415px;
+    width:100px;
+    height:25px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../oAuth_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:169px;
+    top:415px;
+    width:111px;
+    height:25px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:117px;
+    height:31px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:107px;
     height:16px;
     ;
     ;

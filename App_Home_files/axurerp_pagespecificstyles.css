@@ -23,7 +23,7 @@ div {
 }
 
 .u0_normal {
-    background-image: url('../App_Home_files/Placeholder_for_App_Content_u0_normal.png');
+    background-image: url('../App_Home_files/u0_normal.png');
 }
 
 .u0_container {
@@ -88,28 +88,44 @@ div {
 
 .u4 {
     position:absolute;
-    left:110px;
-    top:455px;
-    width:100px;
-    height:25px;
-    ;
-    ;
-    text-align: center;;
-    font-family:'Arial';
-    font-size: 13px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
-}
-
-.u5 {
-    position:absolute;
     left:85px;
     top:276px;
     width:150px;
     height:80px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../App_Home_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:110px;
+    top:420px;
+    width:100px;
+    height:40px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:23px;
     ;
     ;
     ;
