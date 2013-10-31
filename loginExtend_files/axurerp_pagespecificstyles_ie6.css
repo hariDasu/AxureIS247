@@ -8,3 +8,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loginExtend_files/u4_normal.png");
 }
 
+* html .u17_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loginExtend_files/u17_normal.png");
+}
+
