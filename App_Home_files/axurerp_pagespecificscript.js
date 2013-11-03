@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 8; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 9; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -15,4 +15,4 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u6'] = 'center';gv_vAlignTable['u7'] = 'top';
+gv_vAlignTable['u6'] = 'center';gv_vAlignTable['u7'] = 'top';gv_vAlignTable['u8'] = 'top';

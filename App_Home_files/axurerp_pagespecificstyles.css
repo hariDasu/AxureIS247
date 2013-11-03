@@ -152,3 +152,17 @@ div {
     word-wrap:break-word;
 }
 
+.u8 {
+    position:absolute;
+    left:36px;
+    top:490px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
