@@ -48,4 +48,15 @@ if (true) {
 
 }
 });
+document.getElementById('u46_img').tabIndex = 0;
+
+u46.style.cursor = 'pointer';
+$axure.eventManager.click('u46', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Login.html');
+
+}
+});
 gv_vAlignTable['u47'] = 'center';gv_vAlignTable['u49'] = 'center';gv_vAlignTable['u11'] = 'center';gv_vAlignTable['u12'] = 'top';gv_vAlignTable['u14'] = 'center';gv_vAlignTable['u15'] = 'top';gv_vAlignTable['u18'] = 'center';
