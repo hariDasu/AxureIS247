@@ -3,9 +3,14 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u0_normal.png");
 }
 
-* html .u8_normal {
+* html .u2_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u8_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u2_normal.png");
+}
+
+* html .u10_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u10_normal.png");
 }
 
 * html .u23_normal {

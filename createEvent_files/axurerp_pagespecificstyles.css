@@ -56,27 +56,31 @@ div {
     word-wrap:break-word;
 }
 
+.u2_normal {
+    background-image: url('../createEvent_files/u2_normal.png');
+}
+
 .u2_container {
     position:absolute;
-    left:78px;
+    left:-132px;
     top:0px;
-    width:165px;
-    height:135px;
+    width:550px;
+    height:550px;
 }
 
 #u2_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:165px;
-    height:135px;
+    width:550px;
+    height:550px;
 }
 
 .u3 {
     position:absolute;
     left:2px;
-    top:60px;
-    width:161px;
+    top:267px;
+    width:546px;
     height:16px;
     ;
     ;
@@ -244,6 +248,20 @@ div {
     top:14px;
     width:138px;
     height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:74px;
+    top:40px;
+    width:172px;
+    height:55px;
     ;
     ;
     ;
