@@ -96,8 +96,8 @@ div {
 
 .u4_container {
     position:absolute;
-    left:74px;
-    top:477px;
+    left:92px;
+    top:470px;
     width:172px;
     height:53px;
 }
@@ -206,7 +206,7 @@ div {
 
 .u11_container {
     position:absolute;
-    left:62px;
+    left:82px;
     top:407px;
     width:194px;
     height:58px;
@@ -540,6 +540,40 @@ div {
     top:0px;
     width:78px;
     height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../searchResults_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:10px;
+    top:478px;
+    width:70px;
+    height:38px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:44px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:66px;
+    height:18px;
     ;
     ;
     ;
