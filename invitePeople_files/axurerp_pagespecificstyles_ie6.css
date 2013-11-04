@@ -98,3 +98,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="invitePeople_files/u59_normal.png");
 }
 
+* html .u62_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="invitePeople_files/u62_normal.png");
+}
+

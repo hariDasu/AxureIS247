@@ -670,7 +670,7 @@ div {
 
 .u45_container {
     position:absolute;
-    left:92px;
+    left:163px;
     top:470px;
     width:107px;
     height:40px;
@@ -926,6 +926,40 @@ div {
     top:533px;
     width:148px;
     height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../invitePeople_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:22px;
+    top:470px;
+    width:100px;
+    height:40px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:96px;
+    height:23px;
     ;
     ;
     ;
