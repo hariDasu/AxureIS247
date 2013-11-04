@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 28; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 32; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -26,7 +26,20 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u24'] = 'center';gv_vAlignTable['u27'] = 'center';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u3'] = 'center';gv_vAlignTable['u4'] = 'top';gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u6'] = 'top';gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u12'] = 'center';gv_vAlignTable['u13'] = 'top';gv_vAlignTable['u14'] = 'top';gv_vAlignTable['u15'] = 'top';document.getElementById('u17_img').tabIndex = 0;
+gv_vAlignTable['u24'] = 'center';gv_vAlignTable['u27'] = 'center';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u31'] = 'top';gv_vAlignTable['u1'] = 'center';document.getElementById('u2_img').tabIndex = 0;
+
+u2.style.cursor = 'pointer';
+$axure.eventManager.click('u2', function(e) {
+
+if (true) {
+
+	SetPanelVisibility('u25','hidden','none',500);
+
+	SetPanelVisibility('u28','hidden','none',500);
+
+}
+});
+gv_vAlignTable['u3'] = 'center';gv_vAlignTable['u4'] = 'top';gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u6'] = 'top';gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u12'] = 'center';gv_vAlignTable['u13'] = 'top';gv_vAlignTable['u14'] = 'top';gv_vAlignTable['u15'] = 'top';document.getElementById('u17_img').tabIndex = 0;
 
 u17.style.cursor = 'pointer';
 $axure.eventManager.click('u17', function(e) {
@@ -43,6 +56,8 @@ u19.style.cursor = 'pointer';
 $axure.eventManager.click('u19', function(e) {
 
 if (true) {
+
+	SetPanelVisibility('u28','','none',500);
 
 }
 });

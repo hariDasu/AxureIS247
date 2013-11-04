@@ -103,3 +103,23 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u34_normal.png");
 }
 
+* html .u52_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u52_normal.png");
+}
+
+* html .u58_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u52_normal.png");
+}
+
+* html .u64_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u64_normal.png");
+}
+
+* html .u66_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u66_normal.png");
+}
+

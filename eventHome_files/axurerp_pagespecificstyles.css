@@ -125,7 +125,7 @@ div {
 .u6_container {
     position:absolute;
     left:10px;
-    top:490px;
+    top:480px;
     width:100px;
     height:40px;
 }
@@ -159,7 +159,7 @@ div {
 .u8_container {
     position:absolute;
     left:200px;
-    top:490px;
+    top:480px;
     width:100px;
     height:40px;
 }
@@ -802,6 +802,20 @@ div {
     top:2px;
     width:12px;
     height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:172px;
+    top:533px;
+    width:148px;
+    height:15px;
     ;
     ;
     ;

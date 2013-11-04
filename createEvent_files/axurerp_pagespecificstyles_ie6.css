@@ -28,3 +28,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="createEvent_files/u21_normal.png");
 }
 
+* html .u27_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="createEvent_files/u27_normal.png");
+}
+

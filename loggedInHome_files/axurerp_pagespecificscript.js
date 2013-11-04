@@ -1,10 +1,10 @@
-﻿for(var i = 0; i < 52; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 68; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u51'] = 'top';gv_vAlignTable['u20'] = 'top';document.getElementById('u21_img').tabIndex = 0;
+gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u51'] = 'top';gv_vAlignTable['u53'] = 'center';gv_vAlignTable['u54'] = 'top';gv_vAlignTable['u55'] = 'top';gv_vAlignTable['u56'] = 'top';gv_vAlignTable['u57'] = 'top';gv_vAlignTable['u59'] = 'center';gv_vAlignTable['u20'] = 'top';document.getElementById('u21_img').tabIndex = 0;
 
 u21.style.cursor = 'pointer';
 $axure.eventManager.click('u21', function(e) {
@@ -15,7 +15,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u22'] = 'center';gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u29'] = 'center';gv_vAlignTable['u31'] = 'center';gv_vAlignTable['u33'] = 'center';document.getElementById('u34_img').tabIndex = 0;
+gv_vAlignTable['u22'] = 'center';gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u29'] = 'center';gv_vAlignTable['u60'] = 'top';gv_vAlignTable['u61'] = 'top';gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u63'] = 'top';gv_vAlignTable['u65'] = 'center';gv_vAlignTable['u67'] = 'center';gv_vAlignTable['u31'] = 'center';gv_vAlignTable['u33'] = 'center';document.getElementById('u34_img').tabIndex = 0;
 
 u34.style.cursor = 'pointer';
 $axure.eventManager.click('u34', function(e) {
@@ -35,7 +35,7 @@ $axure.eventManager.click('u5', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('createEvent.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('createEvent2.html');
 
 }
 });

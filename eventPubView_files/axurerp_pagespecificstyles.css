@@ -482,3 +482,69 @@ div {
     word-wrap:break-word;
 }
 
+#u28 {
+    position:absolute;
+    left:50px;
+    top:355px;
+    width:214px;
+    height:66px;
+    overflow:hidden;
+}
+
+#pd0u28 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:214px;
+    height:66px;
+    
+}
+
+.u29_normal {
+    background-image: url('../eventPubView_files/u26_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:10px;
+    top:0px;
+    width:200px;
+    height:60px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:66px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:196px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:172px;
+    top:533px;
+    width:148px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

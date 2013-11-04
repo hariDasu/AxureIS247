@@ -228,7 +228,7 @@ div {
 
 .u14_container {
     position:absolute;
-    left:78px;
+    left:108px;
     top:470px;
     width:142px;
     height:50px;
@@ -406,6 +406,54 @@ div {
     top:240px;
     width:46px;
     height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:194px;
+    top:533px;
+    width:126px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../createEvent_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:10px;
+    top:470px;
+    width:70px;
+    height:50px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:56px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:66px;
+    height:18px;
     ;
     ;
     ;
