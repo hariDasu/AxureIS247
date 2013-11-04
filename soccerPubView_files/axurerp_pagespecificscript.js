@@ -57,7 +57,7 @@ $axure.eventManager.click('u16', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('eventHome.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('loggedInHome.html');
 
 }
 });
