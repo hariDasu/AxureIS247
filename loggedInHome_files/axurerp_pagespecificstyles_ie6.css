@@ -178,3 +178,33 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u83_normal.png");
 }
 
+* html .u96_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u96_normal.png");
+}
+
+* html .u98_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u98_normal.png");
+}
+
+* html .u100_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u100_normal.png");
+}
+
+* html .u102_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u96_normal.png");
+}
+
+* html .u104_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u98_normal.png");
+}
+
+* html .u106_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u100_normal.png");
+}
+

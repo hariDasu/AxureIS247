@@ -376,7 +376,7 @@ div {
 
 .u21_container {
     position:absolute;
-    left:113px;
+    left:134px;
     top:389px;
     width:11px;
     height:8px;
@@ -410,7 +410,7 @@ div {
 
 .u23_container {
     position:absolute;
-    left:132px;
+    left:152px;
     top:389px;
     width:11px;
     height:8px;
@@ -438,75 +438,7 @@ div {
     word-wrap:break-word;
 }
 
-.u25_normal {
-    background-image: url('../searchResults_files/u23_normal.png');
-}
-
-.u25_container {
-    position:absolute;
-    left:153px;
-    top:389px;
-    width:11px;
-    height:8px;
-}
-
-#u25_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:17px;
-    height:14px;
-}
-
 .u26 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:7px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u27_normal {
-    background-image: url('../searchResults_files/u23_normal.png');
-}
-
-.u27_container {
-    position:absolute;
-    left:173px;
-    top:389px;
-    width:11px;
-    height:8px;
-}
-
-#u27_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:17px;
-    height:14px;
-}
-
-.u28 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:7px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u30 {
     position:absolute;
     left:16px;
     top:0px;
@@ -520,7 +452,7 @@ div {
     word-wrap:break-word;
 }
 
-.u32 {
+.u28 {
     position:absolute;
     left:16px;
     top:0px;
@@ -534,7 +466,7 @@ div {
     word-wrap:break-word;
 }
 
-.u34 {
+.u30 {
     position:absolute;
     left:16px;
     top:0px;
@@ -548,11 +480,11 @@ div {
     word-wrap:break-word;
 }
 
-.u35_normal {
-    background-image: url('../searchResults_files/u35_normal.png');
+.u31_normal {
+    background-image: url('../searchResults_files/u31_normal.png');
 }
 
-.u35_container {
+.u31_container {
     position:absolute;
     left:10px;
     top:478px;
@@ -560,7 +492,7 @@ div {
     height:38px;
 }
 
-#u35_img {
+#u31_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -568,7 +500,7 @@ div {
     height:44px;
 }
 
-.u36 {
+.u32 {
     position:absolute;
     left:2px;
     top:10px;
