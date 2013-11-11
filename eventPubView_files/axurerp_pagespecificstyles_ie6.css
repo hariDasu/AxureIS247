@@ -3,9 +3,9 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u0_normal.png");
 }
 
-* html .u2_normal {
+* html .u4_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u2_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u4_normal.png");
 }
 
 * html .u6_normal {
@@ -18,9 +18,9 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u8_normal.png");
 }
 
-* html .u10_normal {
+* html .u14_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u10_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u14_normal.png");
 }
 
 * html .u16_normal {
@@ -38,18 +38,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u20_normal.png");
 }
 
-* html .u22_normal {
+* html .u23_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u22_normal.png");
-}
-
-* html .u25_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u25_normal.png");
-}
-
-* html .u28_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u25_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventPubView_files/u23_normal.png");
 }
 

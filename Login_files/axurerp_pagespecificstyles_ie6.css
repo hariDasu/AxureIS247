@@ -3,18 +3,13 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u0_normal.png");
 }
 
-* html .u2_normal {
+* html .u8_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u2_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u8_normal.png");
 }
 
-* html .u10_normal {
+* html .u21_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u10_normal.png");
-}
-
-* html .u23_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u23_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Login_files/u21_normal.png");
 }
 

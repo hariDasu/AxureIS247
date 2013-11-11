@@ -56,41 +56,7 @@ div {
     word-wrap:break-word;
 }
 
-.u2_normal {
-    background-image: url('../Login_files/u2_normal.png');
-}
-
-.u2_container {
-    position:absolute;
-    left:-144px;
-    top:-2px;
-    width:464px;
-    height:550px;
-}
-
-#u2_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:464px;
-    height:550px;
-}
-
-.u3 {
-    position:absolute;
-    left:2px;
-    top:267px;
-    width:460px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-#u4 {
+#u2 {
     position:absolute;
     left:44px;
     top:164px;
@@ -103,7 +69,7 @@ div {
     overflow:hidden;
 }
 
-#u5 {
+#u3 {
     position:absolute;
     left:44px;
     top:232px;
@@ -116,7 +82,7 @@ div {
     overflow:hidden;
 }
 
-#u6 {
+#u4 {
     position:absolute;
     left:44px;
     top:99px;
@@ -129,7 +95,7 @@ div {
     overflow:hidden;
 }
 
-.u7_container {
+.u5_container {
     position:absolute;
     left:56px;
     top:109px;
@@ -137,7 +103,7 @@ div {
     height:25px;
 }
 
-#u7_img {
+#u5_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -145,7 +111,7 @@ div {
     height:25px;
 }
 
-.u8 {
+.u6 {
     position:absolute;
     left:2px;
     top:4px;
@@ -159,7 +125,7 @@ div {
     word-wrap:break-word;
 }
 
-.u9 {
+.u7 {
     position:absolute;
     left:94px;
     top:113px;
@@ -173,11 +139,11 @@ div {
     word-wrap:break-word;
 }
 
-.u10_normal {
-    background-image: url('../Login_files/u10_normal.png');
+.u8_normal {
+    background-image: url('../Login_files/u8_normal.png');
 }
 
-.u10_container {
+.u8_container {
     position:absolute;
     left:56px;
     top:172px;
@@ -185,7 +151,7 @@ div {
     height:26px;
 }
 
-#u10_img {
+#u8_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -193,7 +159,7 @@ div {
     height:26px;
 }
 
-.u11 {
+.u9 {
     position:absolute;
     left:2px;
     top:5px;
@@ -207,7 +173,7 @@ div {
     word-wrap:break-word;
 }
 
-.u12 {
+.u10 {
     position:absolute;
     left:90px;
     top:178px;
@@ -221,7 +187,7 @@ div {
     word-wrap:break-word;
 }
 
-.u13_container {
+.u11_container {
     position:absolute;
     left:51px;
     top:241px;
@@ -229,7 +195,7 @@ div {
     height:25px;
 }
 
-#u13_img {
+#u11_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -237,7 +203,7 @@ div {
     height:25px;
 }
 
-.u14 {
+.u12 {
     position:absolute;
     left:2px;
     top:4px;
@@ -251,7 +217,7 @@ div {
     word-wrap:break-word;
 }
 
-.u15 {
+.u13 {
     position:absolute;
     left:91px;
     top:246px;
@@ -265,7 +231,7 @@ div {
     word-wrap:break-word;
 }
 
-#u16 {
+#u14 {
     position:absolute;
     left:44px;
     top:297px;
@@ -278,7 +244,7 @@ div {
     overflow:hidden;
 }
 
-.u17_container {
+.u15_container {
     position:absolute;
     left:51px;
     top:306px;
@@ -286,7 +252,7 @@ div {
     height:24px;
 }
 
-#u17_img {
+#u15_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -294,7 +260,7 @@ div {
     height:24px;
 }
 
-.u18 {
+.u16 {
     position:absolute;
     left:2px;
     top:4px;
@@ -308,7 +274,7 @@ div {
     word-wrap:break-word;
 }
 
-.u19 {
+.u17 {
     position:absolute;
     left:87px;
     top:311px;
@@ -322,7 +288,7 @@ div {
     word-wrap:break-word;
 }
 
-.u20 {
+.u18 {
     position:absolute;
     left:26px;
     top:355px;
@@ -336,7 +302,7 @@ div {
     word-wrap:break-word;
 }
 
-.u21 {
+.u19 {
     position:absolute;
     left:70px;
     top:389px;
@@ -354,7 +320,7 @@ div {
     
 }
 
-.u22 {
+.u20 {
     position:absolute;
     left:70px;
     top:438px;
@@ -372,11 +338,11 @@ div {
     
 }
 
-.u23_normal {
-    background-image: url('../Login_files/u23_normal.png');
+.u21_normal {
+    background-image: url('../Login_files/u21_normal.png');
 }
 
-.u23_container {
+.u21_container {
     position:absolute;
     left:100px;
     top:473px;
@@ -384,7 +350,7 @@ div {
     height:37px;
 }
 
-#u23_img {
+#u21_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -392,7 +358,7 @@ div {
     height:43px;
 }
 
-.u24 {
+.u22 {
     position:absolute;
     left:2px;
     top:10px;
@@ -406,7 +372,7 @@ div {
     word-wrap:break-word;
 }
 
-.u25 {
+.u23 {
     position:absolute;
     left:74px;
     top:34px;
@@ -420,7 +386,7 @@ div {
     word-wrap:break-word;
 }
 
-.u26 {
+.u24 {
     position:absolute;
     left:10px;
     top:9px;
