@@ -4,6 +4,17 @@ $axure.eventManager.pageLoad(
 function (e) {
 
 });
+document.getElementById('u50_img').tabIndex = 0;
+
+u50.style.cursor = 'pointer';
+$axure.eventManager.click('u50', function(e) {
+
+if (true) {
+
+	SetPanelVisibility('u49','hidden','none',500);
+
+}
+});
 gv_vAlignTable['u51'] = 'center';gv_vAlignTable['u20'] = 'center';gv_vAlignTable['u22'] = 'center';gv_vAlignTable['u24'] = 'center';gv_vAlignTable['u26'] = 'center';gv_vAlignTable['u28'] = 'top';gv_vAlignTable['u30'] = 'top';gv_vAlignTable['u32'] = 'top';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u36'] = 'center';gv_vAlignTable['u38'] = 'center';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u2'] = 'top';gv_vAlignTable['u3'] = 'top';document.getElementById('u4_img').tabIndex = 0;
 
 u4.style.cursor = 'pointer';
