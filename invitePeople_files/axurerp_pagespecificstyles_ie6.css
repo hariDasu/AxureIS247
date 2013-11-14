@@ -73,9 +73,9 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="invitePeople_files/u31_normal.png");
 }
 
-* html .u43_normal {
+* html .u51_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="invitePeople_files/u43_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="invitePeople_files/u51_normal.png");
 }
 
 * html .u53_normal {
@@ -96,10 +96,5 @@
 * html .u59_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="invitePeople_files/u59_normal.png");
-}
-
-* html .u61_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="invitePeople_files/u61_normal.png");
 }
 

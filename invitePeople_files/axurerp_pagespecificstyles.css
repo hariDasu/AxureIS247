@@ -630,31 +630,27 @@ div {
     word-wrap:break-word;
 }
 
-.u43_normal {
-    background-image: url('../invitePeople_files/u43_normal.png');
-}
-
 .u43_container {
     position:absolute;
-    left:204px;
-    top:470px;
-    width:107px;
-    height:40px;
+    left:19px;
+    top:223px;
+    width:19px;
+    height:15px;
 }
 
 #u43_img {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:113px;
-    height:46px;
+    left:0px;
+    top:0px;
+    width:19px;
+    height:15px;
 }
 
 .u44 {
     position:absolute;
     left:2px;
-    top:12px;
-    width:103px;
+    top:0px;
+    width:15px;
     height:16px;
     ;
     ;
@@ -666,8 +662,8 @@ div {
 
 .u45_container {
     position:absolute;
-    left:19px;
-    top:223px;
+    left:9px;
+    top:355px;
     width:19px;
     height:15px;
 }
@@ -696,7 +692,7 @@ div {
 
 .u47_container {
     position:absolute;
-    left:9px;
+    left:109px;
     top:355px;
     width:19px;
     height:15px;
@@ -726,8 +722,8 @@ div {
 
 .u49_container {
     position:absolute;
-    left:109px;
-    top:355px;
+    left:211px;
+    top:223px;
     width:19px;
     height:15px;
 }
@@ -754,27 +750,31 @@ div {
     word-wrap:break-word;
 }
 
+.u51_normal {
+    background-image: url('../invitePeople_files/u51_normal.png');
+}
+
 .u51_container {
     position:absolute;
-    left:211px;
-    top:223px;
-    width:19px;
-    height:15px;
+    left:31px;
+    top:146px;
+    width:45px;
+    height:67px;
 }
 
 #u51_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:19px;
-    height:15px;
+    width:45px;
+    height:67px;
 }
 
 .u52 {
     position:absolute;
     left:2px;
-    top:0px;
-    width:15px;
+    top:26px;
+    width:41px;
     height:16px;
     ;
     ;
@@ -790,25 +790,25 @@ div {
 
 .u53_container {
     position:absolute;
-    left:31px;
-    top:146px;
-    width:45px;
-    height:67px;
+    left:130px;
+    top:150px;
+    width:49px;
+    height:63px;
 }
 
 #u53_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:45px;
-    height:67px;
+    width:49px;
+    height:63px;
 }
 
 .u54 {
     position:absolute;
     left:2px;
-    top:26px;
-    width:41px;
+    top:24px;
+    width:45px;
     height:16px;
     ;
     ;
@@ -824,9 +824,9 @@ div {
 
 .u55_container {
     position:absolute;
-    left:130px;
+    left:220px;
     top:150px;
-    width:49px;
+    width:55px;
     height:63px;
 }
 
@@ -834,7 +834,7 @@ div {
     position:absolute;
     left:0px;
     top:0px;
-    width:49px;
+    width:55px;
     height:63px;
 }
 
@@ -842,7 +842,7 @@ div {
     position:absolute;
     left:2px;
     top:24px;
-    width:45px;
+    width:51px;
     height:16px;
     ;
     ;
@@ -858,26 +858,26 @@ div {
 
 .u57_container {
     position:absolute;
-    left:220px;
-    top:150px;
-    width:55px;
-    height:63px;
+    left:9px;
+    top:470px;
+    width:68px;
+    height:40px;
 }
 
 #u57_img {
     position:absolute;
-    left:0px;
-    top:0px;
-    width:55px;
-    height:63px;
+    left:-3px;
+    top:-3px;
+    width:74px;
+    height:46px;
 }
 
 .u58 {
     position:absolute;
     left:2px;
-    top:24px;
-    width:51px;
-    height:16px;
+    top:8px;
+    width:64px;
+    height:23px;
     ;
     ;
     ;
@@ -892,47 +892,13 @@ div {
 
 .u59_container {
     position:absolute;
-    left:9px;
-    top:470px;
-    width:68px;
-    height:40px;
-}
-
-#u59_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:74px;
-    height:46px;
-}
-
-.u60 {
-    position:absolute;
-    left:2px;
-    top:8px;
-    width:64px;
-    height:23px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u61_normal {
-    background-image: url('../invitePeople_files/u61_normal.png');
-}
-
-.u61_container {
-    position:absolute;
-    left:87px;
+    left:130px;
     top:472px;
     width:107px;
     height:38px;
 }
 
-#u61_img {
+#u59_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -940,7 +906,7 @@ div {
     height:44px;
 }
 
-.u62 {
+.u60 {
     position:absolute;
     left:2px;
     top:1px;

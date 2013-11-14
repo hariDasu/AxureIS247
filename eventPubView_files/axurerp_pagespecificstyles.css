@@ -452,7 +452,41 @@ div {
     
 }
 
-.u26 {
+.u26_normal {
+    background-image: url('../eventPubView_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:210px;
+    height:70px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:216px;
+    height:76px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:206px;
+    height:45px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
     position:absolute;
     left:172px;
     top:533px;
@@ -466,7 +500,7 @@ div {
     word-wrap:break-word;
 }
 
-.u27 {
+.u29 {
     position:absolute;
     left:61px;
     top:60px;

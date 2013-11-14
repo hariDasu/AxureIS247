@@ -83,3 +83,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventHome_files/u45_normal.png");
 }
 
+* html .u50_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="eventHome_files/u50_normal.png");
+}
+

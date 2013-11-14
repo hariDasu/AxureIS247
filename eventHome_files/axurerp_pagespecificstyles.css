@@ -776,3 +776,55 @@ div {
     word-wrap:break-word;
 }
 
+#u49 {
+    position:absolute;
+    left:37px;
+    top:193px;
+    width:247px;
+    height:135px;
+    overflow:hidden;
+}
+
+#pd0u49 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:247px;
+    height:135px;
+    
+}
+
+.u50_normal {
+    background-image: url('../eventHome_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:250px;
+    height:140px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:256px;
+    height:146px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:246px;
+    height:90px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

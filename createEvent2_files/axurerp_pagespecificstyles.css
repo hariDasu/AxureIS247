@@ -108,9 +108,9 @@ div {
 
 .u5 {
     position:absolute;
-    left:70px;
+    left:15px;
     top:345px;
-    width:180px;
+    width:150px;
     height:25px;
     ;
     ;
@@ -126,9 +126,9 @@ div {
 
 .u6 {
     position:absolute;
-    left:54px;
+    left:32px;
     top:380px;
-    width:213px;
+    width:268px;
     height:80px;
     ;
     ;
@@ -258,9 +258,9 @@ div {
 
 .u16 {
     position:absolute;
-    left:85px;
+    left:41px;
     top:160px;
-    width:150px;
+    width:226px;
     height:15px;
     ;
     ;
@@ -658,5 +658,37 @@ div {
     font-family:Arial;
     text-align:left;
     word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:185px;
+    top:345px;
+    width:133px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
 }
 
