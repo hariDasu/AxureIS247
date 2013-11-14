@@ -23,7 +23,7 @@ div {
 }
 
 .u0_normal {
-    background-image: url('../loggedInHome_files/u0_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u0_normal.png');
 }
 
 .u0_container {
@@ -57,7 +57,7 @@ div {
 }
 
 .u2_normal {
-    background-image: url('../loggedInHome_files/u2_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u2_normal.png');
 }
 
 .u2_container {
@@ -91,7 +91,7 @@ div {
 }
 
 .u4_normal {
-    background-image: url('../loggedInHome_files/u4_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u4_normal.png');
 }
 
 .u4_container {
@@ -125,7 +125,7 @@ div {
 }
 
 .u6_normal {
-    background-image: url('../loggedInHome_files/u6_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u6_normal.png');
 }
 
 .u6_container {
@@ -159,7 +159,7 @@ div {
 }
 
 .u8_normal {
-    background-image: url('../loggedInHome_files/u8_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u8_normal.png');
 }
 
 .u8_container {
@@ -193,7 +193,7 @@ div {
 }
 
 .u10_normal {
-    background-image: url('../loggedInHome_files/u10_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u10_normal.png');
 }
 
 .u10_container {
@@ -255,7 +255,7 @@ div {
 }
 
 .u14_normal {
-    background-image: url('../loggedInHome_files/u14_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u14_normal.png');
 }
 
 .u14_container {
@@ -289,7 +289,7 @@ div {
 }
 
 .u16_line {
-    background-image: url('../loggedInHome_files/u16_line.png');
+    background-image: url('../Copy_of_loggedInHome_files/u16_line.png');
 }
 
 .u16_line {
@@ -310,7 +310,7 @@ div {
 }
 
 .u17_normal {
-    background-image: url('../loggedInHome_files/u17_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u17_normal.png');
 }
 
 .u17_container {
@@ -376,7 +376,7 @@ div {
 }
 
 .u21_normal {
-    background-image: url('../loggedInHome_files/u21_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u21_normal.png');
 }
 
 .u21_container {
@@ -410,7 +410,7 @@ div {
 }
 
 .u23_normal {
-    background-image: url('../loggedInHome_files/u23_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u23_normal.png');
 }
 
 .u23_container {
@@ -444,7 +444,7 @@ div {
 }
 
 .u25_normal {
-    background-image: url('../loggedInHome_files/u25_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u25_normal.png');
 }
 
 .u25_container {
@@ -478,7 +478,7 @@ div {
 }
 
 .u27_normal {
-    background-image: url('../loggedInHome_files/u27_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u27_normal.png');
 }
 
 .u27_container {
@@ -512,7 +512,7 @@ div {
 }
 
 .u29_normal {
-    background-image: url('../loggedInHome_files/u21_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u21_normal.png');
 }
 
 .u29_container {
@@ -546,7 +546,7 @@ div {
 }
 
 .u31_normal {
-    background-image: url('../loggedInHome_files/u21_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u21_normal.png');
 }
 
 .u31_container {
@@ -580,7 +580,7 @@ div {
 }
 
 .u33_normal {
-    background-image: url('../loggedInHome_files/u27_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u27_normal.png');
 }
 
 .u33_container {
@@ -614,7 +614,7 @@ div {
 }
 
 .u35_normal {
-    background-image: url('../loggedInHome_files/u27_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u27_normal.png');
 }
 
 .u35_container {
@@ -648,7 +648,7 @@ div {
 }
 
 .u37_normal {
-    background-image: url('../loggedInHome_files/u21_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u21_normal.png');
 }
 
 .u37_container {
@@ -682,7 +682,7 @@ div {
 }
 
 .u39_normal {
-    background-image: url('../loggedInHome_files/u27_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u27_normal.png');
 }
 
 .u39_container {
@@ -800,7 +800,7 @@ div {
 }
 
 .u47_normal {
-    background-image: url('../loggedInHome_files/u47_normal.png');
+    background-image: url('../Copy_of_loggedInHome_files/u47_normal.png');
 }
 
 .u47_container {
@@ -808,7 +808,7 @@ div {
     left:70px;
     top:164px;
     width:180px;
-    height:36px;
+    height:16px;
 }
 
 #u47_img {
@@ -816,15 +816,15 @@ div {
     left:-3px;
     top:-3px;
     width:186px;
-    height:42px;
+    height:22px;
 }
 
 .u48 {
     position:absolute;
     left:2px;
-    top:3px;
+    top:0px;
     width:176px;
-    height:30px;
+    height:15px;
     ;
     ;
     ;

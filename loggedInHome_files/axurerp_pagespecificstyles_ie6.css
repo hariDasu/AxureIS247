@@ -93,3 +93,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u27_normal.png");
 }
 
+* html .u47_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="loggedInHome_files/u47_normal.png");
+}
+
