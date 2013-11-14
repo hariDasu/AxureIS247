@@ -96,7 +96,7 @@ div {
 
 .u4_container {
     position:absolute;
-    left:10px;
+    left:14px;
     top:141px;
     width:306px;
     height:59px;
@@ -130,7 +130,7 @@ div {
 
 .u6_container {
     position:absolute;
-    left:50px;
+    left:54px;
     top:154px;
     width:233px;
     height:35px;
@@ -164,7 +164,7 @@ div {
 
 .u8_container {
     position:absolute;
-    left:294px;
+    left:298px;
     top:150px;
     width:17px;
     height:42px;
@@ -198,7 +198,7 @@ div {
 
 .u10_container {
     position:absolute;
-    left:18px;
+    left:22px;
     top:160px;
     width:29px;
     height:27px;
@@ -228,10 +228,10 @@ div {
 
 .u12 {
     position:absolute;
-    left:76px;
-    top:55px;
-    width:172px;
-    height:55px;
+    left:98px;
+    top:60px;
+    width:124px;
+    height:39px;
     ;
     ;
     ;
@@ -362,7 +362,7 @@ div {
     left:0px;
     top:0px;
     width:321px;
-    height:101px;
+    height:100px;
     overflow:hidden;
 }
 
@@ -371,7 +371,7 @@ div {
     left:0px;
     top:0px;
     width:321px;
-    height:101px;
+    height:100px;
     
 }
 
